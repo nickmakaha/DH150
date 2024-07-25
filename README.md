@@ -12,3 +12,55 @@ These studies provide a multifaceted views into the more societal and humanistic
 
 
 ## Significance
+
+Understanding the determinants of happiness is crucial for developing policies that improve the well-being of citizens. This project provides a detailed comparison of the happiest and least happy countries, offering insights into the specific institutions and networks that can enhance or diminish happiness. By identifying these factors, policymakers and citizens can be more informed and hopefully foster environments that support higher happiness levels.
+
+## Methodology
+Data for this project is sourced from the World Happiness Report 2022, the World Health Organization, and other various sources (WIP), supplemented by academic articles and reports from humanitarian organizations. The high-level overview involves comparing high-level key metrics such as social support, economic stability, and health indices between the happiest and least happy country. The true analysis, however, occurs in the magnification of the lower level social and humanitarian networks within each country, seeking the underlying infrastructures that may explain the varying happiness scores.
+
+## Comparative Analysis
+### The Happiest Country
+* Social and Humanitarian Networks
+* Community engagement
+* Welfare systems
+Visualization: Network graph of social support and community engagement metrics, showing strong interconnections and central nodes
+* Economic and Institutional Factors
+* GDP and economic stability
+* Government policies and corruption levels
+Visualization: Network graph of economic indicators, with GDP as a central node and connections to other economic factors
+* Health and Education
+* Healthcare systems
+* Education quality and accessibility
+Visualization: Network graph of healthcare and education systems, illustrating connections between institutions and outcomes
+### The Least Happy Country
+* Social and Humanitarian Networks
+* Community engagement
+* Welfare systems
+Visualization: Network graph of social support and community engagement metrics, showing weak interconnections and isolated nodes
+* Economic and Institutional Factors
+* GDP and economic stability
+* Government policies and corruption levels
+Visualization: Network graph of economic indicators, with GDP as a weak central node and sparse connections to other factors
+* Health and Education
+* Healthcare systems
+* Education quality and accessibility
+Visualization: Network graph of healthcare and education systems, highlighting weak connections and isolated institutions
+## Comparative Insights
+* Key differences between the happiest and least happy countries
+* Role of institutions and networks in influencing happiness
+Visualization: Comparative network graph highlighting key differences in social, economic, and institutional connections
+## Discussion
+* Interpretation of findings
+* Implications for policy and practice
+* Limitations of the study and areas for future research
+## Conclusion
+* Summary of key findings
+* Final thoughts on the significance of social and humanitarian networks in determining happiness
+* Recommendations for policymakers
+
+## References
+Graciyal, D. Guna, and Deepa Viswam. “Social Media and Emotional Well-Being: Pursuit of Happiness or Pleasure.” Asia Pacific Media Educator 31, no. 1 (April 23, 2021): 99–115. https://doi.org/10.1177/1326365x211003737.
+Kyriacou, Andreas P. “Ethnic Group Inequalities and Governance: Evidence from Developing Countries.” Kyklos 66, no. 1 (January 7, 2013): 78–101. https://doi.org/10.1111/kykl.12012.
+Tan, Chee‐Seng, Sew‐Kim Low, and Glory Nancy Viapude. “Extraversion and Happiness: The Mediating Role of Social Support and Hope.” PsyCh Journal 7, no. 3 (July 17, 2018): 133–43. https://doi.org/10.1002/pchj.220.
+Ye, Dezhu, Yew-Kwang Ng, and Yujun Lian. “Culture and Happiness.” Social Indicators Research 123, no. 2 (September 6, 2014): 519–47. https://doi.org/10.1007/s11205-014-0747-y.
+Dorius, Shawn F. “The Rise and Fall of Worldwide Education Inequality from 1870 to 2010.” Sociology of Education 86, no. 2 (August 9, 2012): 158–73. https://doi.org/10.1177/003804071245655
