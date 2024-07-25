@@ -44,11 +44,13 @@ Visualization: Network graph of economic indicators, with GDP as a weak central 
 * Health and Education
 * Healthcare systems
 * Education quality and accessibility
-Visualization: Network graph of healthcare and education systems, highlighting weak connections and isolated institutions
+
+[Visualization: Network graph of healthcare and education systems, highlighting weak connections and isolated institutions]
 ## Comparative Insights
 * Key differences between the happiest and least happy countries
 * Role of institutions and networks in influencing happiness
-Visualization: Comparative network graph highlighting key differences in social, economic, and institutional connections
+
+[Visualization: Comparative network graph highlighting key differences in social, economic, and institutional connections]
 ## Discussion
 * Interpretation of findings
 * Implications for policy and practice
