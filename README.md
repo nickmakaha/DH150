@@ -20,27 +20,43 @@ Data for this project is sourced from the World Happiness Report 2022, the World
 
 ## Comparative Analysis
 ### The Happiest Country
+
+#### Humanitarian/Social
 * Social and Humanitarian Networks
 * Community engagement
 * Welfare systems
-Visualization: Network graph of social support and community engagement metrics, showing strong interconnections and central nodes
+
+[Visualization: Network graph of social support and community engagement metrics, showing strong interconnections and central nodes]
+
+#### Economy
 * Economic and Institutional Factors
 * GDP and economic stability
 * Government policies and corruption levels
-Visualization: Network graph of economic indicators, with GDP as a central node and connections to other economic factors
+
+[Visualization: Network graph of economic indicators, with GDP as a central node and connections to other economic factors]
+
+#### Health/Education
 * Health and Education
 * Healthcare systems
 * Education quality and accessibility
-Visualization: Network graph of healthcare and education systems, illustrating connections between institutions and outcomes
+
+[Visualization: Network graph of healthcare and education systems, illustrating connections between institutions and outcomes]
+
 ### The Least Happy Country
+#### Humanitarian/Social
 * Social and Humanitarian Networks
 * Community engagement
 * Welfare systems
-Visualization: Network graph of social support and community engagement metrics, showing weak interconnections and isolated nodes
+[Visualization: Network graph of social support and community engagement metrics, showing weak interconnections and isolated nodes]
+
+#### Economy
 * Economic and Institutional Factors
 * GDP and economic stability
 * Government policies and corruption levels
-Visualization: Network graph of economic indicators, with GDP as a weak central node and sparse connections to other factors
+  
+[Visualization: Network graph of economic indicators, with GDP as a weak central node and sparse connections to other factors]
+
+#### Health/Education
 * Health and Education
 * Healthcare systems
 * Education quality and accessibility
