@@ -78,7 +78,12 @@ Data for this project is sourced from the World Happiness Report 2022, the World
 
 ## References
 Graciyal, D. Guna, and Deepa Viswam. “Social Media and Emotional Well-Being: Pursuit of Happiness or Pleasure.” Asia Pacific Media Educator 31, no. 1 (April 23, 2021): 99–115. https://doi.org/10.1177/1326365x211003737.
+
 Kyriacou, Andreas P. “Ethnic Group Inequalities and Governance: Evidence from Developing Countries.” Kyklos 66, no. 1 (January 7, 2013): 78–101. https://doi.org/10.1111/kykl.12012.
+
 Tan, Chee‐Seng, Sew‐Kim Low, and Glory Nancy Viapude. “Extraversion and Happiness: The Mediating Role of Social Support and Hope.” PsyCh Journal 7, no. 3 (July 17, 2018): 133–43. https://doi.org/10.1002/pchj.220.
+
 Ye, Dezhu, Yew-Kwang Ng, and Yujun Lian. “Culture and Happiness.” Social Indicators Research 123, no. 2 (September 6, 2014): 519–47. https://doi.org/10.1007/s11205-014-0747-y.
+
 Dorius, Shawn F. “The Rise and Fall of Worldwide Education Inequality from 1870 to 2010.” Sociology of Education 86, no. 2 (August 9, 2012): 158–73. https://doi.org/10.1177/003804071245655
+
