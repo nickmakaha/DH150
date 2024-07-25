@@ -31,12 +31,16 @@ Data for this project is sourced from the World Happiness Report 2022, the World
 
 [Visualization: Network graph of social support and community engagement metrics, showing strong interconnections and central nodes]
 
+##### Supporting discussion on how social structures/support networks function in this country.
+
 #### Economy
 * Economic and Institutional Factors
 * GDP and economic stability
 * Government policies and corruption levels
 
 [Visualization: Network graph of economic indicators, with GDP as a central node and connections to other economic factors]
+
+##### Supporting discussion on how the economy is structured/functions in this country.
 
 #### Health/Education
 * Health and Education
@@ -45,6 +49,8 @@ Data for this project is sourced from the World Happiness Report 2022, the World
 
 [Visualization: Network graph of healthcare and education systems, illustrating connections between institutions and outcomes]
 
+##### Supporting discussion on the healthcare system in this country.
+
 ### The Least Happy Country
 #### Humanitarian/Social
 * Social and Humanitarian Networks
@@ -52,7 +58,7 @@ Data for this project is sourced from the World Happiness Report 2022, the World
 * Welfare systems
 [Visualization: Network graph of social support and community engagement metrics, showing weak interconnections and isolated nodes]
 
-##### Supporting discussion on how the social structures/support network is built in this country.
+##### Supporting discussion on how social structures/support networks function in this country.
 
   
 
@@ -63,12 +69,18 @@ Data for this project is sourced from the World Happiness Report 2022, the World
   
 [Visualization: Network graph of economic indicators, with GDP as a weak central node and sparse connections to other factors]
 
+##### Supporting discussion on how the economy is structured/functions in this country.
+
 #### Health/Education
 * Health and Education
 * Healthcare systems
 * Education quality and accessibility
 
 [Visualization: Network graph of healthcare and education systems, highlighting weak connections and isolated institutions]
+
+##### Supporting discussion on the healthcare system in this country.
+
+
 ## Comparative Insights
 * Key differences between the happiest and least happy countries
 * Role of institutions and networks in influencing happiness
