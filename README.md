@@ -60,7 +60,7 @@ Ideas:
 * A democratic nation shouldn't show much centrality around a single node, it should be well-connected
 * This could tie into ideas of corruption in the World Happiness Report
 
-* 
+  
 ### The Happiest Country
 
 
