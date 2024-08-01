@@ -25,9 +25,6 @@ Data for this project is sourced from the World Happiness Report 2022, the World
 
 
 #### Humanitarian/Social
-* Social and Humanitarian Networks
-* Community engagement
-* Welfare systems
 
 ![image](https://github.com/user-attachments/assets/4236f0d6-6833-467e-8148-b124f88ef970)
 
