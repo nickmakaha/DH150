@@ -51,8 +51,19 @@ From a humanitarian lens, Finland's social structures and support networks exemp
 
 ![image](https://github.com/user-attachments/assets/f66ea507-04b4-49ce-a67b-4a44fb2ed265)
 
+Finland's governmental support for small business owners is extensive and well-structured, aiming to foster entrepreneurship, innovation, and economic growth. The network graph from Gephi visualizes the interconnected support systems available to a small business owner, showcasing the variety of programs and services designed to assist at different stages of business development.
 
-##### Supporting discussion on how the economy is structured/functions in this country.
+##### Business Finland
+Business Finland plays a central role in supporting small businesses through its innovation funding and export promotion programs (https://www.businessfinland.fi/). These services allow businesses to develop new products, access international markets, and grow their operations.
+
+##### Intellectual Property Support
+The Finnish patent and Registration Office (PRH) provides essential services related to trademarks and patents, helping businesses protect their intellectual property and innovate with confidence that their ideas will not be stolen. This allows individuals, even those in marginalized communities, to patent their ideas and pursue them in the form of small businesses.
+
+##### TE Services
+TE Services focus on enhancing entrepreneurial skills through training programs and providing grants to new startups. These services are essential for equipping entrepreneurs with the knowledge and financial support needed to navigate the challenges of starting and running a business - regardless of socioeconomic status. This program is unique, as it allows for any individual with no background in running a company to gain the skills and funding necessary to pursue their dreams in the form of a startup (toimistot.te-palvelut.f).
+
+##### Humanitarian Perspective
+From a humanitarian perspective, Finland's extensive support network for small business owners demonstrates the country's commitment to fostering economic inclusion and empowerment. By providing accessible financial, educational, and advisory services, the Finnish government ensurs entrepreneurs from diverse backgrounds have the opportunity to succeed. This inclusive approach not only drives economic growth, but also promotes social equality and inclusion of all citizens.
 
 #### Possibly show political system?
 
@@ -86,10 +97,19 @@ From a humanitarian perspective, Pakistan's social structures and support networ
 ![image](https://github.com/user-attachments/assets/2634aa7d-9399-42c3-9e35-bc1420fc863c)
 
 
-##### Supporting discussion on how the economy is structured/functions in this country.
+Pakistan's governmental support for small business owners includes a range of programs aimed at fostering entrepreneurship, improving access to finance, and encouraging business growth. However, the Pakistani support network for small businesses shows certain limitations in scope and accessibility for all citizens. For example, a small business may be more likely to receive a loan with small interest rates rather than a grant for a new company. 
 
-#### Possibly show political system?
+##### Small and Medium Enterprises Development Authority (SMEDA)
+SMEDA is a central agency providing comprehensive business development services and funding support for SMEs in Pakistan. The nodes representing SMEDA in the graph higlight its key role in the small business ecosystem by offering advisory services, training, and financial assistance to small business owners.
 
+##### State Bank of Pakistan
+The State Bank of Pakistan facilitates access to finance for small businesses through schemes like the Refinance and Credit Guarantee Scheme (https://www.sbp.org.pk/). This program allows for businesses to obtain low-cost financing options and credit guarantees to small and medium businesses. 
+
+##### Pakistan Poverty Alleviation Fund
+PPAF supports small business owners through microfinance programs, which provides small loans to entrepreneurs who may not have access to banking services. This support is important for poverty alleviation and economic empowerment, particularly in underserved areas where they may not be a bank available (https://www.ppaf.org.pk/).
+
+##### Humanitarian Perspective
+Pakistan's support network for small business owners is designed to promote economic inclusion, alleviating poverty and empowering marginalized communities when possible. By providing access to finance, training, and regulatory support, the government creates an environment conducive for entrepreneurship and economic growth. However, the comprehensiveness of Pakistan's programs does not yet match the Finnish support programs. 
 
 [Visualization: Possible visualization of political system]
 
@@ -120,46 +140,4 @@ Ye, Dezhu, Yew-Kwang Ng, and Yujun Lian. “Culture and Happiness.” Social Ind
 
 Dorius, Shawn F. “The Rise and Fall of Worldwide Education Inequality from 1870 to 2010.” Sociology of Education 86, no. 2 (August 9, 2012): 158–73. https://doi.org/10.1177/003804071245655
 
-
-## Ideas for Network Graphs
-Example thoughts for network & discussion in relation to social support/humanitarian graph
-* Citizen A & B on a single graph as nodes, have rest of nodes be support structures.
-
-Support Structure Ideas:
-* Welfare
-* Retirement benefits
-* Veterans benefits?
-* Access to free education
-* Ability to vote
-* Insurance
-
-
----
-Example thoughts for network & discussion in relation to GDP
-* Small business A & B on single graph, showing connections to possible resources and support programs?
-
-Economic support ideas:
-* Small business support (Government policies, aid programs)
-* Overall GDP of countries (Could I make a node be larger based on a higher value? Have the bigger GDP as a larger node to show a stark difference)
-* Distribution of wealth?
-* Number of small businesses (Use similar larger node idea for higher number?)
-
----
-Example thoughts for network & discussion in relation to Health/Education
-* Create network graph of citizens A & B, have edges be access to resources
-
-Ideas:
-* Access to free healthcare
-* Access to free education (could go under support/humanitarian section or here)
-* Average amount spent on medical care by a citzen each year in respective country (Have a higher number correlate to a larger node to show possible stark difference?)
-
-
---- 
-Example thoughts for network & discussion in relation to Politics
-* Create network graph showing the political system and where a citizen fits in
-
-Ideas:
-* Discuss centrality of the network (i.e. is a dictator at the center and the citizen has no edge into the network?)
-* A democratic nation shouldn't show much centrality around a single node, it should be well-connected
-* This could tie into ideas of corruption in the World Happiness Report
 
