@@ -63,10 +63,7 @@ From a humanitarian lens, Finland's social structures and support networks exemp
 ##### Supporting discussion on the healthcare system in this country.
 
 ### The Least Happy Country - Pakistan
-#### Humanitarian/Social
-* Social and Humanitarian Networks
-* Community engagement
-* Welfare systems
+#### Humanitarian/Social Networks through the lens of a Pakistani Citizen
 ![image](https://github.com/user-attachments/assets/87bf1283-388f-4399-bc07-da3b2c860113)
 
 ##### Welfare Systems
