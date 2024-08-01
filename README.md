@@ -24,7 +24,7 @@ Data for this project is sourced from the World Happiness Report 2022, the World
 
 
 
-#### Humanitarian/Social
+#### Humanitarian/Social Networks through the lens of a Finnish Citizen
 
 ![image](https://github.com/user-attachments/assets/4236f0d6-6833-467e-8148-b124f88ef970)
 
