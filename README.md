@@ -25,13 +25,11 @@ Data for this project is sourced from the World Happiness Report 2022, the World
 
 
 #### Humanitarian/Social
-
 * Social and Humanitarian Networks
 * Community engagement
 * Welfare systems
 
-[Visualization: Network graph of social support and community engagement metrics, showing strong interconnections and central nodes]
-![image](https://github.com/user-attachments/assets/9ee413e7-4c42-40ab-93ac-43a7abe1d4e8)
+![image](https://github.com/user-attachments/assets/9f67d02f-5f1a-425f-92f8-bd52b8d4dfea)
 
 
 ##### Supporting discussion on how social structures/support networks function in this country.
@@ -54,13 +52,12 @@ Data for this project is sourced from the World Happiness Report 2022, the World
 
 ##### Supporting discussion on the healthcare system in this country.
 
-### The Least Happy Country
+### The Least Happy Country - Pakistan
 #### Humanitarian/Social
 * Social and Humanitarian Networks
 * Community engagement
 * Welfare systems
-[Visualization: Network graph of social support and community engagement metrics, showing weak interconnections and isolated nodes]
-![image](https://github.com/user-attachments/assets/1616f4b5-0672-4f69-a288-7da9d7147f70)
+![image](https://github.com/user-attachments/assets/b8cf7fea-dcc9-46fe-bc61-65d114a28125)
 
 
 ##### Supporting discussion on how social structures/support networks function in this country.
