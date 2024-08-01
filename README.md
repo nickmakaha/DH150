@@ -44,7 +44,7 @@ From a humanitarian lens, Finland's social structures and support networks exemp
 
 
 
-#### Economy
+#### Economic Support through the lens of a small business owner in Finland
 * Economic and Institutional Factors
 * GDP and economic stability
 * Government policies and corruption levels
@@ -80,7 +80,7 @@ From a humanitarian perspective, Pakistan's social structures and support networ
 
   
 
-#### Economy
+#### Economic Support through the lens of a small business owner in Pakistan
 * Economic and Institutional Factors
 * GDP and economic stability
 * Government policies and corruption levels
