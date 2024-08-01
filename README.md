@@ -29,7 +29,8 @@ Data for this project is sourced from the World Happiness Report 2022, the World
 * Community engagement
 * Welfare systems
 
-![image](https://github.com/user-attachments/assets/9f67d02f-5f1a-425f-92f8-bd52b8d4dfea)
+![image](https://github.com/user-attachments/assets/4236f0d6-6833-467e-8148-b124f88ef970)
+
 
 
 ##### Supporting discussion on how social structures/support networks function in this country.
@@ -57,7 +58,8 @@ Data for this project is sourced from the World Happiness Report 2022, the World
 * Social and Humanitarian Networks
 * Community engagement
 * Welfare systems
-![image](https://github.com/user-attachments/assets/b8cf7fea-dcc9-46fe-bc61-65d114a28125)
+![image](https://github.com/user-attachments/assets/87bf1283-388f-4399-bc07-da3b2c860113)
+
 
 
 ##### Supporting discussion on how social structures/support networks function in this country.
