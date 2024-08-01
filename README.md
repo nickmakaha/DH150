@@ -49,7 +49,8 @@ From a humanitarian lens, Finland's social structures and support networks exemp
 * GDP and economic stability
 * Government policies and corruption levels
 
-[Visualization: Network graph of economic indicators, with GDP as a central node and connections to other economic factors]
+![image](https://github.com/user-attachments/assets/f66ea507-04b4-49ce-a67b-4a44fb2ed265)
+
 
 ##### Supporting discussion on how the economy is structured/functions in this country.
 
@@ -85,7 +86,8 @@ From a humanitarian perspective, Pakistan's social structures and support networ
 * GDP and economic stability
 * Government policies and corruption levels
   
-[Visualization: Network graph of economic indicators, with GDP as a weak central node and sparse connections to other factors]
+![image](https://github.com/user-attachments/assets/2634aa7d-9399-42c3-9e35-bc1420fc863c)
+
 
 ##### Supporting discussion on how the economy is structured/functions in this country.
 
