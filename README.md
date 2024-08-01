@@ -33,7 +33,8 @@ Data for this project is sourced from the World Happiness Report 2022, the World
 
 
 
-##### Supporting discussion on how social structures/support networks function in this country.
+##### Welfare Systems
+The Finnish welfare system is inclusive by design and offers extensive support to all citizens - which is evident in the variety of welfare-related nodes in the graph. It has also been found to make the well-being of citizens "largely independent of family structures and prevailing market conditions" (https://www.europarl.europa.eu/workingpapers/soci/w9/social_en.htm). It has also been found to be successful in reducing income inequalities (Social Protection in Europe, 1995, the European Commission, COM(95)0457.) The Social Insurance Institution of Finland
 
 #### Economy
 * Economic and Institutional Factors
