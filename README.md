@@ -54,14 +54,11 @@ From a humanitarian lens, Finland's social structures and support networks exemp
 
 ##### Supporting discussion on how the economy is structured/functions in this country.
 
-#### Health/Education
-* Health and Education
-* Healthcare systems
-* Education quality and accessibility
+#### Possibly show political system?
 
-[Visualization: Network graph of healthcare and education systems, illustrating connections between institutions and outcomes]
 
-##### Supporting discussion on the healthcare system in this country.
+[Visualization: Possible visualization of political system]
+
 
 ### The Least Happy Country - Pakistan
 #### Humanitarian/Social Networks through the lens of a Pakistani Citizen
@@ -91,14 +88,11 @@ From a humanitarian perspective, Pakistan's social structures and support networ
 
 ##### Supporting discussion on how the economy is structured/functions in this country.
 
-#### Health/Education
-* Health and Education
-* Healthcare systems
-* Education quality and accessibility
+#### Possibly show political system?
 
-[Visualization: Network graph of healthcare and education systems, highlighting weak connections and isolated institutions]
 
-##### Supporting discussion on the healthcare system in this country.
+[Visualization: Possible visualization of political system]
+
 
 
 ## Comparative Insights
