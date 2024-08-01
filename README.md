@@ -69,9 +69,17 @@ From a humanitarian lens, Finland's social structures and support networks exemp
 * Welfare systems
 ![image](https://github.com/user-attachments/assets/87bf1283-388f-4399-bc07-da3b2c860113)
 
+##### Welfare Systems
+The welfare system in Pakistan aims to provide basic support to its citizens, particularly the most vulnerable groups. The graph includes nodes such as the Benazir Support Programme (BISP) and Pakistan Bait-ul-Mal, which are pivotal in delivering financial assistance to low-income families. These programs are designed to reduce poverty and provide a safety net for those in need (https://bisp.gov.pk/).
 
+##### Retirement Benefits
+Retirement benefits are generally provided through various government schemes aimed at ensuring a level of financial security for the elder population in Pakistan. The scope and coverage are not as extensive as other countries, but programs like the Employees' Old-Age Benefits Institution offer pensions to registered workers (http://www.eobi.gov.pk/).
 
-##### Supporting discussion on how social structures/support networks function in this country.
+##### Access to Education
+Education in Pakistan is a crucial area where significant efforts have been made to improve, but the country is still lacking in comparison to the rest of the world. The graph shows nodes connected to the Ministry of Federal Education and Professional Training - these programs help provide free education for primary education. Secondary and higher education, however, often require fees and are limited to those who can either afford attendance or earn scholarships to cover tuition. This contrasts with the Finnish education system, where every individual - regardless of socioeconomic status - can obtain a higher level education.
+
+##### Humanitarian Perspective
+From a humanitarian perspective, Pakistan's social structures and support networks are critical in addressing the basic needs of its population, particularly in the face of economic constraints and developmental challenges. The network graph in Gephi illustrates the government's efforts to provide essential services and support to its citizens - highlighting the achievements and the areas where further development is needed. While Finland's support networks are extensive and well-funded, Pakistan's efforts are characterized by targeted programs aimed at alleviating poverty and improving access to basic needs. A light is shed on possible reasons for Pakistan's low happiness score through this network analysis - showing fundamental problems that could lead to lower reported happiness by Pakistani citizens. 
 
   
 
