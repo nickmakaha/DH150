@@ -65,10 +65,17 @@ TE Services focus on enhancing entrepreneurial skills through training programs 
 ##### Humanitarian Perspective
 From a humanitarian perspective, Finland's extensive support network for small business owners demonstrates the country's commitment to fostering economic inclusion and empowerment. By providing accessible financial, educational, and advisory services, the Finnish government ensurs entrepreneurs from diverse backgrounds have the opportunity to succeed. This inclusive approach not only drives economic growth, but also promotes social equality and inclusion of all citizens.
 
-#### Possibly show political system?
+#### The Finnish Political System
+![image](https://github.com/user-attachments/assets/69ff981e-90ec-4686-8709-d9eeb08f16b2)
+From this network, it is clear that Finnish citizens have a significant role in the selection of their governing bodies and leadership. A single out-degree can be observed by each node starting with the Finnish Citizen, except for the Finnish Parliament which has an out-degree of two, connecting to both the President and the Prime Minister of Finland. Finnish citizens voting in the National Election determines members of the "Eduskunta," or the Finnish Parliament, which then consequently elects the Finnish Prime Minister. The President, on the other hand, is elected directly through a popular vote - giving complete control to the Finnish citizens. However, the edge between the Finnish Parliament and the President indicates the control that the Parliament has over the Finnish President through legislative action. By examining the pathway of these connections directly, a better idea of the political system can be obtained: 
+Connections and Pathways:
 
+1. Citizen (Finland) -> Voting in National Elections: Every Finnish citizen over the age of 18 has the right to vote in national elections. This is the primary way citizens participate in the democratic process and influence political decisions.
+2. Voting in National Elections -> Finnish Parliament (Eduskunta): The Finnish Parliament, known as the Eduskunta, is elected through proportional representation. Citizens vote for their preferred party, and seats are allocated based on the proportion of votes each party receives.
+3. Finnish Parliament (Eduskunta) -> Finnish President: The Finnish President is elected by direct popular vote. However, the Parliament plays a significant role in the functioning of the government and can influence the President’s policies through legislative actions.
+4. Finnish Parliament (Eduskunta) -> Finnish Prime Minister: The Prime Minister is typically the leader of the party that holds the majority in Parliament or can form a coalition. The Prime Minister is appointed by the President and confirmed by the Parliament.
 
-[Visualization: Possible visualization of political system]
+The Finnish political system allows great influence from each individual citizen, allowing them to vote in National Elections, determining the composition of the "Eduskunta." This parliament then directly elects the prime minister, which indicates a direct pathway from citizens to the choice of the Finnish Prime Minister. Furthermore, granting citizens the ability to elect a Finnish President solely through popular vote gives power to every Finnish citizen, regardless of socioeconomic background.
 
 
 ### The Least Happy Country - Pakistan
@@ -109,23 +116,23 @@ PPAF supports small business owners through microfinance programs, which provide
 ##### Humanitarian Perspective
 Pakistan's support network for small business owners is designed to promote economic inclusion, alleviating poverty and empowering marginalized communities when possible. By providing access to finance, training, and regulatory support, the government creates an environment conducive for entrepreneurship and economic growth. However, the comprehensiveness of Pakistan's programs does not yet match the Finnish support programs. 
 
-#### The Finnish Political System
+#### The Pakistani Political System
 ![image](https://github.com/user-attachments/assets/69ff981e-90ec-4686-8709-d9eeb08f16b2)
-From this network, it is clear that Finnish citizens have a significant role in the selection of their governing bodies and leadership. A single out-degree can be observed by each node starting with the Finnish Citizen, except for the Finnish Parliament which has an out-degree of two, connecting to both the President and the Prime Minister of Finland. Finnish citizens voting in the National Election determines members of the "Eduskunta," or the Finnish Parliament, which then consequently elects the Finnish Prime Minister. The President, on the other hand, is elected directly through a popular vote - giving complete control to the Finnish citizens. However, the edge between the Finnish Parliament and the President indicates the control that the Parliament has over the Finnish President through legislative action. By examining the pathway of these connections directly, a better idea of the political system can be obtained: 
-Connections and Pathways:
+From this shared network observed earlier, it can be seen that Pakistan's governmental structure is very similar to the Finnish system on the surface. A single out-degree can be observed by each node starting with the Pakistani Citizen except for the National Assembly of Pakistan, which has an out-degree of two, connecting to both the President and the Prime Minister of Pakistan. Pakistani citizens voting in the General Election determines members of the National Assembly of Pakistan which then elects both the President and Prime Minister of Pakistan. This differs slightly from the Finnish system, where the Preisdent is elected solely by a popular vote. By again examining the pathway of these connections directly, a better idea of the political system can be obtained: 
+##### Connections and Pathways:
 
-1. Citizen (Finland) -> Voting in National Elections: Every Finnish citizen over the age of 18 has the right to vote in national elections. This is the primary way citizens participate in the democratic process and influence political decisions.
-2. Voting in National Elections -> Finnish Parliament (Eduskunta): The Finnish Parliament, known as the Eduskunta, is elected through proportional representation. Citizens vote for their preferred party, and seats are allocated based on the proportion of votes each party receives.
-3. Finnish Parliament (Eduskunta) -> Finnish President: The Finnish President is elected by direct popular vote. However, the Parliament plays a significant role in the functioning of the government and can influence the President’s policies through legislative actions.
-4. Finnish Parliament (Eduskunta) -> Finnish Prime Minister: The Prime Minister is typically the leader of the party that holds the majority in Parliament or can form a coalition. The Prime Minister is appointed by the President and confirmed by the Parliament.
+1. Citizen (Pakistan) -> Voting in General Elections: Pakistani citizens aged 18 and above are eligible to vote in general elections. This is the primary method for citizens to participate in the political process and elect their representatives.
+2. Voting in General Elections -> National Assembly of Pakistan: The National Assembly is elected through a mixed system of direct and reserved seats. Citizens vote for candidates in their constituencies, and seats are filled based on the first-past-the-post system.
+3. National Assembly of Pakistan -> President of Pakistan: The President is elected by an Electoral College comprising members of the National Assembly, the Senate, and the provincial assemblies. While the President's role is largely ceremonial, the position holds some influence in the political system.
+4. National Assembly of Pakistan -> Prime Minister of Pakistan: The Prime Minister is the head of government and is usually the leader of the majority party in the National Assembly. The Prime Minister is elected by the National Assembly and is responsible for running the government and implementing policies.
 
+The Pakistani political system allows for some amount of influence from each individual citizen, granting them the ability to vote in General Elections, determining the composition of the Pakistani National Assembly. This parliament then directly elects both the president and the prime minister, idnicating a direct pathway from citizens to the selection of each leader. The government differs in the electing of a figurehead solely through popular vote - only existing in the Finnish political system. This could be interpreted as granting each Pakistani citizen slightly less power in the choice of who actually leads the country.
 
 
 ## Comparative Insights
 * Key differences between the happiest and least happy countries
 * Role of institutions and networks in influencing happiness
 
-[Visualization: Comparative network graph highlighting key differences in social, economic, and institutional connections]
 ## Discussion
 * Interpretation of findings
 * Implications for policy and practice
