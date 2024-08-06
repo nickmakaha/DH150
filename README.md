@@ -45,9 +45,6 @@ From a humanitarian lens, Finland's social structures and support networks exemp
 
 
 #### Economic Support through the lens of a small business owner in Finland
-* Economic and Institutional Factors
-* GDP and economic stability
-* Government policies and corruption levels
 
 ![image](https://github.com/user-attachments/assets/f66ea507-04b4-49ce-a67b-4a44fb2ed265)
 
@@ -68,7 +65,7 @@ From a humanitarian perspective, Finland's extensive support network for small b
 #### The Finnish Political System
 ![image](https://github.com/user-attachments/assets/69ff981e-90ec-4686-8709-d9eeb08f16b2)
 From this network, it is clear that Finnish citizens have a significant role in the selection of their governing bodies and leadership. A single out-degree can be observed by each node starting with the Finnish Citizen, except for the Finnish Parliament which has an out-degree of two, connecting to both the President and the Prime Minister of Finland. Finnish citizens voting in the National Election determines members of the "Eduskunta," or the Finnish Parliament, which then consequently elects the Finnish Prime Minister. The President, on the other hand, is elected directly through a popular vote - giving complete control to the Finnish citizens. However, the edge between the Finnish Parliament and the President indicates the control that the Parliament has over the Finnish President through legislative action. By examining the pathway of these connections directly, a better idea of the political system can be obtained: 
-Connections and Pathways:
+##### Connections and Pathways:
 
 1. Citizen (Finland) -> Voting in National Elections: Every Finnish citizen over the age of 18 has the right to vote in national elections. This is the primary way citizens participate in the democratic process and influence political decisions.
 2. Voting in National Elections -> Finnish Parliament (Eduskunta): The Finnish Parliament, known as the Eduskunta, is elected through proportional representation. Citizens vote for their preferred party, and seats are allocated based on the proportion of votes each party receives.
