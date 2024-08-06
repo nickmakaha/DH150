@@ -90,9 +90,7 @@ From a humanitarian perspective, Pakistan's social structures and support networ
   
 
 #### Economic Support through the lens of a small business owner in Pakistan
-* Economic and Institutional Factors
-* GDP and economic stability
-* Government policies and corruption levels
+
   
 ![image](https://github.com/user-attachments/assets/2634aa7d-9399-42c3-9e35-bc1420fc863c)
 
@@ -111,7 +109,15 @@ PPAF supports small business owners through microfinance programs, which provide
 ##### Humanitarian Perspective
 Pakistan's support network for small business owners is designed to promote economic inclusion, alleviating poverty and empowering marginalized communities when possible. By providing access to finance, training, and regulatory support, the government creates an environment conducive for entrepreneurship and economic growth. However, the comprehensiveness of Pakistan's programs does not yet match the Finnish support programs. 
 
-[Visualization: Possible visualization of political system]
+#### The Finnish Political System
+![image](https://github.com/user-attachments/assets/69ff981e-90ec-4686-8709-d9eeb08f16b2)
+From this network, it is clear that Finnish citizens have a significant role in the selection of their governing bodies and leadership. A single out-degree can be observed by each node starting with the Finnish Citizen, except for the Finnish Parliament which has an out-degree of two, connecting to both the President and the Prime Minister of Finland. Finnish citizens voting in the National Election determines members of the "Eduskunta," or the Finnish Parliament, which then consequently elects the Finnish Prime Minister. The President, on the other hand, is elected directly through a popular vote - giving complete control to the Finnish citizens. However, the edge between the Finnish Parliament and the President indicates the control that the Parliament has over the Finnish President through legislative action. By examining the pathway of these connections directly, a better idea of the political system can be obtained: 
+Connections and Pathways:
+
+1. Citizen (Finland) -> Voting in National Elections: Every Finnish citizen over the age of 18 has the right to vote in national elections. This is the primary way citizens participate in the democratic process and influence political decisions.
+2. Voting in National Elections -> Finnish Parliament (Eduskunta): The Finnish Parliament, known as the Eduskunta, is elected through proportional representation. Citizens vote for their preferred party, and seats are allocated based on the proportion of votes each party receives.
+3. Finnish Parliament (Eduskunta) -> Finnish President: The Finnish President is elected by direct popular vote. However, the Parliament plays a significant role in the functioning of the government and can influence the President’s policies through legislative actions.
+4. Finnish Parliament (Eduskunta) -> Finnish Prime Minister: The Prime Minister is typically the leader of the party that holds the majority in Parliament or can form a coalition. The Prime Minister is appointed by the President and confirmed by the Parliament.
 
 
 
