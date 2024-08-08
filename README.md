@@ -169,6 +169,8 @@ will be prevalent in my work – especially how its effects may diversify among 
 groups and vulnerable individuals. The article also discusses at length different types of “ties,”
 mentioning how tie strength can determine emotional well-being of an individual – this will be
 very helpful as I conduct network analysis of social media and social interactions as a whole.
+
+
 Kyriacou, Andreas P. “Ethnic Group Inequalities and Governance: Evidence from Developing
 Countries.” Kyklos 66, no. 1 (January 7, 2013): 78–101.
 https://doi.org/10.1111/kykl.12012.
@@ -181,6 +183,8 @@ exploration of the World Happiness Report, as ethnic diversity among countries c
 related to factors contributing to happiness through Kyriacou’s explorations. This allows me to
 take a more humanitarian approach to analyzing the World Happiness Report, using ethnicity as
 a major talking point for governance around the globe.
+
+
 Tan, Chee‐Seng, Sew‐Kim Low, and Glory Nancy Viapude. “Extraversion and Happiness: The
 Mediating Role of Social Support and Hope.” PsyCh Journal 7, no. 3 (July 17, 2018): 133–
 43. https://doi.org/10.1002/pchj.220.
@@ -193,6 +197,8 @@ hint at influencing varying “Social Support” scores across countries. It wou
 to delve into whether specific ethnic groups tend to report themselves as more extroverted. There
 could also be an analysis done on social networks of extraverts vs introverts as a supporting
 diagram for this exploration.
+
+
 Ye, Dezhu, Yew-Kwang Ng, and Yujun Lian. “Culture and Happiness.” Social Indicators
 Research 123, no. 2 (September 6, 2014): 519–47. https://doi.org/10.1007/s11205-014-
 0747-y.
@@ -206,6 +212,8 @@ contributes to each country’s happiness score – and what underlying societal
 influencing it. It will also provide a basis on which network analysis at a country-level
 granularity can be done, providing insights into cultural factors that may weigh towards a
 higher overall happiness score.
+
+
 Dorius, Shawn F. “The Rise and Fall of Worldwide Education Inequality from 1870 to 2010.”
 Sociology of Education 86, no. 2 (August 9, 2012): 158–73.
 https://doi.org/10.1177/0038040712456558.
