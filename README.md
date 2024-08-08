@@ -137,18 +137,24 @@ In contrast to Finland, Pakistan’s political network tells a different story. 
 In this network, the judiciary and military nodes have high betweenness centrality, showcasing their role as gatekeepers in the political process. Decisions made by the judiciary can determine the eligibility of candidates for Prime Minister, and the military's influence can shape the actions of the National Assembly. This central positioning allows them to control the flow of power and information, often bypassing the citizen's influence. Additionally, the judiciary and military nodes have higher closeness centrality to the president, prime minister, and National Assembly than the citizen node, signifying their proximity to key political bodies. This proximity showcases the possibility of their exerted influence bypassing the desires of the Pakistani citizens. Through this network analysis it is evident that there is a disproportionate influence by Pakistan's judiciary system and military in the political system. While the citizen should ideally have a direct and influential role in elections, as seen in Finland, their power is significantly lessened by the intervention of the other powerful entities in Pakistan. The judiciary's ability to disqualify candidates or delay elections allows it to control political outcomes that could otherwise be determined by citizens - lessening the power of each vote. Additionally, the military has previously directly influenced the direction of the government through coups, with the most recent attempt failing in 1995. 
 
 
-## Comparative Insights
-* Key differences between the happiest and least happy countries
-* Role of institutions and networks in influencing happiness
 
-## Discussion
-* Interpretation of findings
-* Implications for policy and practice
-* Limitations of the study and areas for future research
-## Conclusion
-* Summary of key findings
-* Final thoughts on the significance of social and humanitarian networks in determining happiness
-* Recommendations for policymakers
+## Discussion + Conclusion
+The comparative analysis of Finland and Pakistan across different domains, citizen support structures, small business support, and political systems, highlights significant disparities in how these two countries function. In Finland, both the citizen and the small business owner benefit from a robust network of support systems. The high out-degree centrality in Finland's networks reflects the accessibility and availability of various government programs aimed at ensuring the well-being of its citizens and the success of its businesses. These include comprehensive welfare systems, free education, extensive retirement benefits, and strong business support services. The political system in Finland also shows a high degree of transparency and citizen participation, with the citizen node playing a vital role in governance, as indicated by the centrality metrics. Additionally, the network graphs largely show the reality of how the Finnish governmental systems function - with no underlying corruption or deceit in the political process for example. 
+
+In contrast, Pakistan's networks reveal a slightly more constrained support structure. The out-degree centrality for both the citizen and the small business owner is  lower, indicating fewer accessible support systems. This is reflected in limited welfare programs, challenges in accessing quality education, and less comprehensive business support. Furthermore, the political network analysis shows that citizen influence is undermined by the disproportionate power of the judiciary and military, leading to a system that does not operate as transparently or effectively as it should. The high betweenness centrality of these institutions in Pakistan's political network highlights their role as gatekeepers, often preventing citizens from having a direct impact on political outcomes.
+
+The findings exemplify the need for policy reforms in Pakistan to enhance citizen and small business support systems. Strengthening the welfare system, expanding educational access, and improving business support mechanisms are critical steps that can help lessen the divide between the two countries. Additionally, reducing the influence of non-elected bodies like the judiciary and military in political processes is essential for fostering a more transparent and democratic political process. For Finland, the results validate the effectiveness of its current policies but also suggest that continuous monitoring and adaptation are necessary to maintain these high standards.
+
+While this study provides valuable insights, it is not without limitations. The analysis was constrained by the availability and scope of data, particularly regarding Pakistan's support systems. Future research could benefit from a more granular approach, including qualitative data on citizen experiences and a deeper exploration of regional differences within each country. Additionally, the study could be expanded to include more countries, providing a broader comparative perspective that could further illuminate the strengths and weaknesses of different governance models.
+
+Another area for future research could focus on the impact of these support systems on specific demographics, such as women, minorities, or rural populations, to understand how equitable these networks are within each country. Moreover, examining the long-term effects of these support systems on economic growth, political stability, and overall happiness would provide a more comprehensive understanding of their effectiveness.
+
+### The role of network analysis
+This project utilized network analysis to explore and compare the social support systems, political structures, and business environments in Finland and Pakistan, shedding light on the underlying factors contributing to the stark differences in their happiness scores. By mapping out and analyzing the connections between citizens, governmental support structures, and political institutions, network analysis provided a powerful tool for visualizing and understanding the complexities of each country's governmental systems and political processes.
+
+The findings suggest that the effectiveness and accessibility of support systems, as well as the transparency and inclusivity of political processes, are critical factors in determining a nation's happiness. This project demonstrates the value of network analysis as a tool for policymakers and researchers, offering insights that can guide efforts to improve governance and social well-being in countries facing challenges similar to those identified in Pakistan.
+
+
 
 ## References
 Graciyal, D. Guna, and Deepa Viswam. “Social Media and Emotional Well-Being: Pursuit of Happiness or Pleasure.” Asia Pacific Media Educator 31, no. 1 (April 23, 2021): 99–115. https://doi.org/10.1177/1326365x211003737.
