@@ -161,6 +161,7 @@ The findings suggest that the effectiveness and accessibility of support systems
 Graciyal, D. Guna, and Deepa Viswam. “Social Media and Emotional Well-Being: Pursuit of
 Happiness or Pleasure.” Asia Pacific Media Educator 31, no. 1 (April 23, 2021): 99–115.
 https://doi.org/10.1177/1326365x211003737.
+
  This resource provides insight into the addictive nature of social media and descent into social
 dysfunction occurring when our real life is replaced by a virtual one. It is a very important study
 as social media usage could be a factor heavily contributing to a country’s overall happiness
@@ -174,6 +175,7 @@ very helpful as I conduct network analysis of social media and social interactio
 Kyriacou, Andreas P. “Ethnic Group Inequalities and Governance: Evidence from Developing
 Countries.” Kyklos 66, no. 1 (January 7, 2013): 78–101.
 https://doi.org/10.1111/kykl.12012.
+
  Kyriacou’s article introduces the idea of ethnic heterogeneity or ethnic fractionalization,
 which is “measured as the probability that two randomly selected people from a given country do
 not belong to the same ethnic group.” She expounds upon this probability, mentioning that ethnic
@@ -188,6 +190,7 @@ a major talking point for governance around the globe.
 Tan, Chee‐Seng, Sew‐Kim Low, and Glory Nancy Viapude. “Extraversion and Happiness: The
 Mediating Role of Social Support and Hope.” PsyCh Journal 7, no. 3 (July 17, 2018): 133–
 43. https://doi.org/10.1002/pchj.220.
+
  This article delves into the role of social support and individual hope in a person’s overall
 happiness. Specifically, the authors dive into the idea that extraversion is related to happiness –
 providing research showing that extraverts usually have positive relationships with perceived
@@ -202,7 +205,8 @@ diagram for this exploration.
 Ye, Dezhu, Yew-Kwang Ng, and Yujun Lian. “Culture and Happiness.” Social Indicators
 Research 123, no. 2 (September 6, 2014): 519–47. https://doi.org/10.1007/s11205-014-
 0747-y.
- “Culture and Hapiness” explores one of the most important underlying factors to a country’s
+
+     “Culture and Hapiness” explores one of the most important underlying factors to a country’s
 happiness score: culture. The article “examines the predictive power of cultural factors on
 the cross-country differences in happiness.” The researchers utilize R^2 scores to compare
 relative importance of different cultural factors in a country’s happiness. They examine
@@ -217,7 +221,8 @@ higher overall happiness score.
 Dorius, Shawn F. “The Rise and Fall of Worldwide Education Inequality from 1870 to 2010.”
 Sociology of Education 86, no. 2 (August 9, 2012): 158–73.
 https://doi.org/10.1177/0038040712456558.
-Shawn Dorius’s research seeks to explore and analyze long-run trends in country education
+
+     Shawn Dorius’s research seeks to explore and analyze long-run trends in country education
 inequality over a 140-year period. Additionally, he brings up the idea of a “world education
 revolution,” which relates to the mass expansion of the western model of mass education. He
 mentions the primary goal of his research as exploring the effect of a worldwide education
