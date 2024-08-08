@@ -206,7 +206,7 @@ Ye, Dezhu, Yew-Kwang Ng, and Yujun Lian. “Culture and Happiness.” Social Ind
 Research 123, no. 2 (September 6, 2014): 519–47. https://doi.org/10.1007/s11205-014-
 0747-y.
 
-     “Culture and Hapiness” explores one of the most important underlying factors to a country’s
+  “Culture and Hapiness” explores one of the most important underlying factors to a country’s
 happiness score: culture. The article “examines the predictive power of cultural factors on
 the cross-country differences in happiness.” The researchers utilize R^2 scores to compare
 relative importance of different cultural factors in a country’s happiness. They examine
@@ -222,7 +222,7 @@ Dorius, Shawn F. “The Rise and Fall of Worldwide Education Inequality from 187
 Sociology of Education 86, no. 2 (August 9, 2012): 158–73.
 https://doi.org/10.1177/0038040712456558.
 
-     Shawn Dorius’s research seeks to explore and analyze long-run trends in country education
+  Shawn Dorius’s research seeks to explore and analyze long-run trends in country education
 inequality over a 140-year period. Additionally, he brings up the idea of a “world education
 revolution,” which relates to the mass expansion of the western model of mass education. He
 mentions the primary goal of his research as exploring the effect of a worldwide education
