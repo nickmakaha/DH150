@@ -43,7 +43,7 @@ One of the most significant pillars of Finland's social support network is their
 From a humanitarian lens, Finland's social structures and support networks exemplify a commitment to human rights and social justice. The comprehensive nature of their services ensures that all citizens, even the most vulnerable, are protected and support. Their approach not only addresses the immediate needs of citizens, but also contributes to long-term social stabiity and prosperity. Finland's extensive and inclusive social support networks, visualized in the Gephi graph, highlight the country's dedication to ensuring that all citizens have access to the resources and services they need to lead healthy, productive, and fulfilling lives. This commitment to social welfare and community engagement is likely a key factor in Finland's high levels of happiness and social cohesion. By comparing this to the support structures in Pakistan, we can gain valuable insights into how different countries approach social support and impact these approaches have on each country's population.
 
 
-
+---
 #### Economic Support through the lens of a small business owner in Finland
 
 ![image](https://github.com/user-attachments/assets/f66ea507-04b4-49ce-a67b-4a44fb2ed265)
@@ -62,6 +62,7 @@ TE Services focus on enhancing entrepreneurial skills through training programs 
 ##### Humanitarian Perspective
 From a humanitarian perspective, Finland's extensive support network for small business owners demonstrates the country's commitment to fostering economic inclusion and empowerment. By providing accessible financial, educational, and advisory services, the Finnish government ensurs entrepreneurs from diverse backgrounds have the opportunity to succeed. This inclusive approach not only drives economic growth, but also promotes social equality and inclusion of all citizens.
 
+---
 #### The Finnish Political System
 ![image](https://github.com/user-attachments/assets/642aeddd-08f0-4aef-a358-62217d52f7db)
 
@@ -78,7 +79,7 @@ The Finnish political system allows great influence from each individual citizen
 ##### Network Analysis
 In Finland's political network, the citizen node is central and highly connected, reflecting the importance of citizen participation in the democratic process. By analyzing the network metrics, we can gain insights into the functioning of this system. The out-degree of the citizen node in Finland’s network is higher than in Pakistan, indicating that citizens have multiple direct pathways to influence political outcomes. Specifically, citizens can vote in National Elections to choose members of the Finnish Parliament, and they can directly vote for the Finnish President - exemplifying their connectedness across the entire network. This breadth of connections demonstrates the empowerment given to each citizen and their direct influence on the composition and consequently the actions of the Finnish government. Finland also hasn't shown signs up corruption in history - with no reports of injust influence on governing bodies by those in power. This indicates that the Finnish citizen holds uninfluenced sway in the political elections, truly allowing them a say in the direction of the government.
 
-
+---
 ### The Least Happy Country - Pakistan
 #### Humanitarian/Social Networks through the lens of a Pakistani Citizen
 ![image](https://github.com/user-attachments/assets/87bf1283-388f-4399-bc07-da3b2c860113)
@@ -96,12 +97,11 @@ Education in Pakistan is a crucial area where significant efforts have been made
 From a humanitarian perspective, Pakistan's social structures and support networks are critical in addressing the basic needs of its population, particularly in the face of economic constraints and developmental challenges. The network graph in Gephi illustrates the government's efforts to provide essential services and support to its citizens - highlighting the achievements and the areas where further development is needed. While Finland's support networks are extensive and well-funded, Pakistan's efforts are characterized by targeted programs aimed at alleviating poverty and improving access to basic needs. A light is shed on possible reasons for Pakistan's low happiness score through this network analysis - showing fundamental problems that could lead to lower reported happiness by Pakistani citizens. 
 
   
-
+---
 #### Economic Support through the lens of a small business owner in Pakistan
 
   
 ![image](https://github.com/user-attachments/assets/2634aa7d-9399-42c3-9e35-bc1420fc863c)
-
 
 Pakistan's governmental support for small business owners includes a range of programs aimed at fostering entrepreneurship, improving access to finance, and encouraging business growth. However, the Pakistani support network for small businesses shows certain limitations in scope and accessibility for all citizens. For example, a small business may be more likely to receive a loan with small interest rates rather than a grant for a new company. 
 
@@ -117,6 +117,7 @@ PPAF supports small business owners through microfinance programs, which provide
 ##### Humanitarian Perspective
 Pakistan's support network for small business owners is designed to promote economic inclusion, alleviating poverty and empowering marginalized communities when possible. By providing access to finance, training, and regulatory support, the government creates an environment conducive for entrepreneurship and economic growth. However, the comprehensiveness of Pakistan's programs does not yet match the Finnish support programs. 
 
+---
 #### The Pakistani Political System
 ![image](https://github.com/user-attachments/assets/b5a6eefa-ede1-4255-a92b-5a88df74043e)
 
@@ -137,7 +138,7 @@ In contrast to Finland, Pakistan’s political network tells a different story. 
 In this network, the judiciary and military nodes have high betweenness centrality, showcasing their role as gatekeepers in the political process. Decisions made by the judiciary can determine the eligibility of candidates for Prime Minister, and the military's influence can shape the actions of the National Assembly. This central positioning allows them to control the flow of power and information, often bypassing the citizen's influence. Additionally, the judiciary and military nodes have higher closeness centrality to the president, prime minister, and National Assembly than the citizen node, signifying their proximity to key political bodies. This proximity showcases the possibility of their exerted influence bypassing the desires of the Pakistani citizens. Through this network analysis it is evident that there is a disproportionate influence by Pakistan's judiciary system and military in the political system. While the citizen should ideally have a direct and influential role in elections, as seen in Finland, their power is significantly lessened by the intervention of the other powerful entities in Pakistan. The judiciary's ability to disqualify candidates or delay elections allows it to control political outcomes that could otherwise be determined by citizens - lessening the power of each vote. Additionally, the military has previously directly influenced the direction of the government through coups, with the most recent attempt failing in 1995. 
 
 
-
+---
 ## Discussion + Conclusion
 The comparative analysis of Finland and Pakistan across different domains, citizen support structures, small business support, and political systems, highlights significant disparities in how these two countries function. In Finland, both the citizen and the small business owner benefit from a robust network of support systems. The high out-degree centrality in Finland's networks reflects the accessibility and availability of various government programs aimed at ensuring the well-being of its citizens and the success of its businesses. These include comprehensive welfare systems, free education, extensive retirement benefits, and strong business support services. The political system in Finland also shows a high degree of transparency and citizen participation, with the citizen node playing a vital role in governance, as indicated by the centrality metrics. Additionally, the network graphs largely show the reality of how the Finnish governmental systems function - with no underlying corruption or deceit in the political process for example. 
 
