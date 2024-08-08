@@ -57,7 +57,7 @@ Business Finland plays a central role in supporting small businesses through its
 The Finnish patent and Registration Office (PRH) provides essential services related to trademarks and patents, helping businesses protect their intellectual property and innovate with confidence that their ideas will not be stolen. This allows individuals, even those in marginalized communities, to patent their ideas and pursue them in the form of small businesses.
 
 ##### TE Services
-TE Services focus on enhancing entrepreneurial skills through training programs and providing grants to new startups. These services are essential for equipping entrepreneurs with the knowledge and financial support needed to navigate the challenges of starting and running a business - regardless of socioeconomic status. This program is unique, as it allows for any individual with no background in running a company to gain the skills and funding necessary to pursue their dreams in the form of a startup (toimistot.te-palvelut.f).
+TE Services focus on enhancing entrepreneurial skills through training programs and providing grants to new startups. These services are essential for equipping entrepreneurs with the knowledge and financial support needed to navigate the challenges of starting and running a business - regardless of socioeconomic status. This program is unique, as it allows for any individual with no background in running a company to gain the skills and funding necessary to pursue their dreams in the form of a startup (toimistot.te-palvelut.fi).
 
 ##### Humanitarian Perspective
 From a humanitarian perspective, Finland's extensive support network for small business owners demonstrates the country's commitment to fostering economic inclusion and empowerment. By providing accessible financial, educational, and advisory services, the Finnish government ensurs entrepreneurs from diverse backgrounds have the opportunity to succeed. This inclusive approach not only drives economic growth, but also promotes social equality and inclusion of all citizens.
@@ -66,7 +66,7 @@ From a humanitarian perspective, Finland's extensive support network for small b
 #### The Finnish Political System
 ![image](https://github.com/user-attachments/assets/642aeddd-08f0-4aef-a358-62217d52f7db)
 
-From this network, it is clear that Finnish citizens have a significant role in the selection of their governing bodies and leadership. An out-degree of two can be observed in both the Finnish Citizen node and the Finnish Parliament node, both connecting to the President and the Prime Minister of Finland. Finnish citizens voting in the National Election determines members of the "Eduskunta," or the Finnish Parliament, which then consequently elects the Finnish Prime Minister. The President, on the other hand, is elected directly through a popular vote - giving complete control to the Finnish citizens. However, the edge between the Finnish Parliament and the President indicates the control that the Parliament has over the Finnish President through legislative action. By examining the pathway of these connections directly, a better idea of the political system can be obtained: 
+From this network, it is clear that Finnish citizens have a significant role in the selection of their governing bodies and leadership. An out-degree of two can be observed in both the Finnish Citizen node and the Finnish Parliament node, both connecting to the President and the Prime Minister of Finland. Finnish citizens voting in the National Election determines members of the "Eduskunta," or the Finnish Parliament, which then consequently elects the Finnish Prime Minister (eduskunta.fi). The President, on the other hand, is elected directly through a popular vote - giving complete control to the Finnish citizens. However, the edge between the Finnish Parliament and the President indicates the control that the Parliament has over the Finnish President through legislative action. By examining the pathway of these connections directly, a better idea of the political system can be obtained: 
 ##### Connections and Pathways:
 
 1. Citizen (Finland) -> Voting in National Elections: Every Finnish citizen over the age of 18 has the right to vote in national elections. This is the primary way citizens participate in the democratic process and influence political decisions.
@@ -157,15 +157,70 @@ The findings suggest that the effectiveness and accessibility of support systems
 
 
 
-## References
-Graciyal, D. Guna, and Deepa Viswam. “Social Media and Emotional Well-Being: Pursuit of Happiness or Pleasure.” Asia Pacific Media Educator 31, no. 1 (April 23, 2021): 99–115. https://doi.org/10.1177/1326365x211003737.
+## References/Annotated Bibliography
+Graciyal, D. Guna, and Deepa Viswam. “Social Media and Emotional Well-Being: Pursuit of
+Happiness or Pleasure.” Asia Pacific Media Educator 31, no. 1 (April 23, 2021): 99–115.
+https://doi.org/10.1177/1326365x211003737.
+ This resource provides insight into the addictive nature of social media and descent into social
+dysfunction occurring when our real life is replaced by a virtual one. It is a very important study
+as social media usage could be a factor heavily contributing to a country’s overall happiness
+score and it gives a deeper look into the mental health impacts. The discussion of social media
+will be prevalent in my work – especially how its effects may diversify among different ethnic
+groups and vulnerable individuals. The article also discusses at length different types of “ties,”
+mentioning how tie strength can determine emotional well-being of an individual – this will be
+very helpful as I conduct network analysis of social media and social interactions as a whole.
+Kyriacou, Andreas P. “Ethnic Group Inequalities and Governance: Evidence from Developing
+Countries.” Kyklos 66, no. 1 (January 7, 2013): 78–101.
+https://doi.org/10.1111/kykl.12012.
+ Kyriacou’s article introduces the idea of ethnic heterogeneity or ethnic fractionalization,
+which is “measured as the probability that two randomly selected people from a given country do
+not belong to the same ethnic group.” She expounds upon this probability, mentioning that ethnic
+heterogeneity has been negatively associated with a “range of governance indicators across
+countries.” This idea of ethnic heterogeneity can be utilized as a major talking point in my
+exploration of the World Happiness Report, as ethnic diversity among countries can be directly
+related to factors contributing to happiness through Kyriacou’s explorations. This allows me to
+take a more humanitarian approach to analyzing the World Happiness Report, using ethnicity as
+a major talking point for governance around the globe.
+Tan, Chee‐Seng, Sew‐Kim Low, and Glory Nancy Viapude. “Extraversion and Happiness: The
+Mediating Role of Social Support and Hope.” PsyCh Journal 7, no. 3 (July 17, 2018): 133–
+43. https://doi.org/10.1002/pchj.220.
+ This article delves into the role of social support and individual hope in a person’s overall
+happiness. Specifically, the authors dive into the idea that extraversion is related to happiness –
+providing research showing that extraverts usually have positive relationships with perceived
+social support. This is an interesting article as it could be combined with more research seeking
+how “extraverted” individuals in different countries are, and observations could be made that
+hint at influencing varying “Social Support” scores across countries. It would also be interesting
+to delve into whether specific ethnic groups tend to report themselves as more extroverted. There
+could also be an analysis done on social networks of extraverts vs introverts as a supporting
+diagram for this exploration.
+Ye, Dezhu, Yew-Kwang Ng, and Yujun Lian. “Culture and Happiness.” Social Indicators
+Research 123, no. 2 (September 6, 2014): 519–47. https://doi.org/10.1007/s11205-014-
+0747-y.
+ “Culture and Hapiness” explores one of the most important underlying factors to a country’s
+happiness score: culture. The article “examines the predictive power of cultural factors on
+the cross-country differences in happiness.” The researchers utilize R^2 scores to compare
+relative importance of different cultural factors in a country’s happiness. They examine
+dimensions of the GLOBE cultural indices, containing topics including Power Distance
+and Gender Egalitarianism. This article will be fundamental in my analysis of what
+contributes to each country’s happiness score – and what underlying societal factors are
+influencing it. It will also provide a basis on which network analysis at a country-level
+granularity can be done, providing insights into cultural factors that may weigh towards a
+higher overall happiness score.
+Dorius, Shawn F. “The Rise and Fall of Worldwide Education Inequality from 1870 to 2010.”
+Sociology of Education 86, no. 2 (August 9, 2012): 158–73.
+https://doi.org/10.1177/0038040712456558.
+Shawn Dorius’s research seeks to explore and analyze long-run trends in country education
+inequality over a 140-year period. Additionally, he brings up the idea of a “world education
+revolution,” which relates to the mass expansion of the western model of mass education. He
+mentions the primary goal of his research as exploring the effect of a worldwide education
+revolution on intercountry education inequalities. This source will help me expand upon the
+“Freedom to make life choices” factor detailed as part of the World Happiness Report. Education
+has been proven to play a major role in how much power an individual feels they have to make
+decisions and exploring the inequalities between countries will be an insightful addition to my
+research. Additionally, exploring the impact of a continually spreading western education system
+on different ethnic groups and societies across countries will create a meaningful discussion.
+This also provides a strong basis for a network analysis – seeing countries as nodes continually
+added into a network comprised of those utilizing a western education system.
 
-Kyriacou, Andreas P. “Ethnic Group Inequalities and Governance: Evidence from Developing Countries.” Kyklos 66, no. 1 (January 7, 2013): 78–101. https://doi.org/10.1111/kykl.12012.
-
-Tan, Chee‐Seng, Sew‐Kim Low, and Glory Nancy Viapude. “Extraversion and Happiness: The Mediating Role of Social Support and Hope.” PsyCh Journal 7, no. 3 (July 17, 2018): 133–43. https://doi.org/10.1002/pchj.220.
-
-Ye, Dezhu, Yew-Kwang Ng, and Yujun Lian. “Culture and Happiness.” Social Indicators Research 123, no. 2 (September 6, 2014): 519–47. https://doi.org/10.1007/s11205-014-0747-y.
-
-Dorius, Shawn F. “The Rise and Fall of Worldwide Education Inequality from 1870 to 2010.” Sociology of Education 86, no. 2 (August 9, 2012): 158–73. https://doi.org/10.1177/003804071245655
-
+## Annotated Bibliography
 
